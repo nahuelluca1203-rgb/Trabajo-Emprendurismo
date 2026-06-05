@@ -1,4 +1,5 @@
-#  Soy Lucas Nahuel Cioccale Pizarro
+#  Trabajo practico Emprendurismo
+Lucas Nahuel Cioccale Pizarro
 
 ## 
 
