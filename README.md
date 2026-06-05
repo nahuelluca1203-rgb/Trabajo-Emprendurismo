@@ -1,6 +1,6 @@
-# ¡Hola!  Soy Lucas Nahuel Cioccale Pizarro
+#  Soy Lucas Nahuel Cioccale Pizarro
 
-##  Sobre mí
+## 
 
 Soy estudiante de Programación Full Stack en la Universidad Provincial de Córdoba (UPC), con interés en el desarrollo web, bases de datos y desarrollo de software.
 
