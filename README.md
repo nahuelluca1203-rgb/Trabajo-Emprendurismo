@@ -11,6 +11,15 @@ Me encuentro en constante aprendizaje de tecnologías y herramientas orientadas 
 
 ---
 
+##  Portfolio Web
+
+Sitio web personal desarrollado para presentar mi perfil profesional, formación académica, tecnologías y proyectos realizados durante la carrera de Programación Full Stack.
+
+🔗 Portfolio:
+https://nahuelluca1203-rgb.github.io
+
+---
+
 ##  Formación
 
 - Programación Full Stack - Universidad Provincial de Córdoba (UPC)
@@ -61,7 +70,7 @@ Colaboración en el desarrollo y organización del proyecto.
 
 ---
 
-## 📈 Actualmente aprendiendo
+##  Actualmente aprendiendo
 
 - Desarrollo Full Stack
 - PostgreSQL
@@ -78,4 +87,4 @@ Colaboración en el desarrollo y organización del proyecto.
 
 ---
 
-⭐ Siempre abierto a aprender, colaborar en proyectos y adquirir nuevas experiencias dentro del mundo IT.
+Siempre abierto a aprender, colaborar en proyectos y adquirir nuevas experiencias dentro del mundo IT.
